@@ -1,0 +1,14 @@
+From: PayPal Security <support@secure-paypal.com>
+To: user@example.com
+Subject: Urgent: Verify Your Account Immediately!
+Date: Tue, 18 Jun 2024 14:38:19 +0530
+Content-Type: text/html
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>Your PayPal account has been flagged for suspicious activity.</p>
+    <p><a href="http://secure-paypal-login.com.ru">Click here to verify your account</a> to avoid suspension.</p>
+    <p>Thank you,<br>PayPal Security Team</p>
+  </body>
+</html>
