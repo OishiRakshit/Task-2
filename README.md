@@ -10,7 +10,7 @@ The objective of this task is to analyze a suspicious email and identify charact
 
 - Email client or saved phishing email file (`.eml` or `.txt`)
 - Free online email header analyzers (e.g., [MxToolbox](https://mxtoolbox.com/EmailHeaders.aspx))
-- Web browser (for hovering over links to detect mismatches)
+- Web browser
 
 ---
 
